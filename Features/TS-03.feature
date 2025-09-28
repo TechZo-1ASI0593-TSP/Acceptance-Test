@@ -1,4 +1,4 @@
-Feature: TS02 - Endpoint para ver reseñas recibidas por el usuario autenticado
+Feature: TS03 - Endpoint para ver reseñas recibidas por el usuario autenticado
 
   Como usuario developer que configura la plataforma
   Quiero implementar una API que permita a los usuarios dejar reseñas a otros usuarios
